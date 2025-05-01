@@ -1,1 +1,25 @@
 Inteligencia Artificial
+La IA (inteligencia artificial) es un campo de la informática que se enfoca en crear sistemas o programas capaces de realizar tareas que normalmente requieren inteligencia humana. Estas tareas incluyen:
+•	Reconocimiento de voz (como asistentes virtuales: Siri, Alexa)
+•	Procesamiento del lenguaje natural (como entender o generar texto, como lo hago yo)
+•	Visión por computadora (identificar objetos en imágenes o videos)
+•	Aprendizaje automático (aprender patrones a partir de datos)
+•	Toma de decisiones (como en juegos, finanzas, diagnósticos médicos)
+Ejemplos: ChatGPT, Copilot, etc.
+
+Utilidades de la IA
+En la vida diaria:
+•	Asistentes virtuales: Siri, Alexa o Google Assistant ayudan a responder preguntas, poner alarmas, reproducir música, etc.
+•	Traducción automática: Google Translate y otras apps usan IA para traducir texto, voz o imágenes.
+•	Filtros en redes sociales: Instagram, Snapchat y TikTok usan IA para aplicar filtros faciales o mejorar fotos.
+•	Recomendaciones personalizadas: Netflix, Spotify o YouTube te recomiendan contenido según tus gustos.
+En el trabajo y la educación:
+•	Redacción y corrección de textos: Herramientas como Grammarly o incluso esta misma IA ayudan a escribir mejor.
+•	Análisis de datos: IA puede detectar patrones, hacer predicciones o identificar errores rápidamente.
+•	Atención al cliente: Chatbots automáticos atienden consultas 24/7 sin intervención humana.
+•	Educación personalizada: Plataformas como Duolingo adaptan el contenido a tu nivel y progreso.
+En la industria y la ciencia:
+•	Diagnóstico médico asistido: IA ayuda a detectar enfermedades en radiografías, resonancias, etc.
+•	Vehículos autónomos: Coches como los de Tesla usan IA para conducirse solos.
+•	Agricultura inteligente: Drones e IA analizan cultivos para optimizar el riego y controlar plagas.
+•	Ciberseguridad: Detección de amenazas y fraudes en tiempo real.
