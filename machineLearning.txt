@@ -1,1 +1,8 @@
 Machine Learning
+Machine Learning (aprendizaje automático) es una rama de la inteligencia artificial que se enfoca en crear sistemas que pueden aprender automáticamente a partir de datos y mejorar su desempeño con la experiencia sin ser programados explícitamente para cada tarea específica.
+Se utiliza para automatizar tareas complejas que tradicionalmente requerirían intervención humana, como:
+Reconocimiento de imágenes y voz (por ejemplo, el reconocimiento facial o los asistentes virtuales como Siri o Alexa).
+Sistemas de recomendación (como los que usan Netflix, YouTube o Amazon).
+Detección de fraudes en tarjetas de crédito o transacciones bancarias.
+Predicción de comportamientos o tendencias, como en finanzas o en salud (por ejemplo, predecir enfermedades).
+Automatización de procesos industriales o vehículos autónomos.
